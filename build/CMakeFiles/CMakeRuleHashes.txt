@@ -1,0 +1,5 @@
+# Hashes of file build rules.
+8f9301ea30a5c44d0484266fa3be9be8 CMakeFiles/compile_dict
+8f9301ea30a5c44d0484266fa3be9be8 CMakeFiles/compile_java
+3381d9d8d1e468e8d3aa7f689be0a39b coccoc-tokenizer.jar
+d84e7d817ea4c0a432c31a0c4c88a73e multiterm_trie.dump

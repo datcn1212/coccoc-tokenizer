@@ -1,0 +1,1 @@
+/usr/bin/c++ -fPIC -pipe -Wall -Werror -Wno-long-long -Wno-variadic-macros -Wno-strict-aliasing -ggdb -O3 -DNDEBUG -std=c++11 -Wno-deprecated -rdynamic CMakeFiles/tokenizer.dir/utils/tokenizer.cpp.o -o tokenizer 

@@ -1,0 +1,11 @@
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/dict_compiler.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/tokenizer.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/vn_lang_tool.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/compile_dict.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/compile_java.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/edit_cache.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/rebuild_cache.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/list_install_components.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/install.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/install/local.dir
+/home/canada/Documents/coccoc-tokenizer/build/CMakeFiles/install/strip.dir
