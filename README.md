@@ -13,6 +13,7 @@ $ cmake ..
 ```
 
 To include java bindings:
+NOTE: use this option to get lib for Elasticsearch - libcoccoc_tokenizer_jni.so
 
 ```
 $ mkdir build && cd build
